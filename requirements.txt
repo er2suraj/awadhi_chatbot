@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+transformers
+sentence-transformers
+faiss-cpu
+torch
+pyttsx3
+SpeechRecognition
+pyaudio
+
